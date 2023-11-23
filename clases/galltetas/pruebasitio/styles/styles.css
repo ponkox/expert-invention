@@ -1,0 +1,49 @@
+html {
+    background-color:beige;
+    font-size: 10px;
+    font-family: 'https://fonts.google.com/specimen/Comic+Neue?preview.text=comic&query=comic', 
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color:rgb(231, 206, 155) ;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #945c14;
+    text-shadow: 3px 3px 1px black;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  
+  li {
+    font-size: 25px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+  }
+
+  h2 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  p {
+    color: black(63, 51, 30);
+    font-size: 20px;
+    font-family: cursive;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+  
+
